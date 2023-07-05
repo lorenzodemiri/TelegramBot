@@ -38,7 +38,7 @@ class TelegramAdminBot:
         self.query_insta = None
         self.instaCode = None
         print(self.chat_id)
-        self.logo_link = "https://video.wixstatic.com/video/07e3fe_9cbe39267f7c418eb749fe2a45af084c/1080p/mp4/file.mp4"
+        self.logo_link = "<LOGO_LINK>"
         self.outgoing_message_text = "Hello {} {}, welcome to <b>Mubbylab Store Admin Dashboard</b> 🤖 \n " \
                                      "Insert the Admin Password".format(
             self.first_name,
