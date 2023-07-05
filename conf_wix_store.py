@@ -2,7 +2,7 @@ import requests
 import urllib3
 import json
 
-BASE_WIXSTORE_URL = 'https://www.mubbylab.xyz/_functions'
+BASE_WIXSTORE_URL = 'https://<WIX_SITE>/_functions'
 BASE_WIXSTOREIMAGE_URL = 'https://static.wixstatic.com/media/{}'
 
 
